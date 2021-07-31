@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <title>REGISRATION FORM</title>
+	<link rel="stylesheet" href="new style.css">
+    </head>
+    <body>
+        <h1>REGISRATION FORM</h1>
+        <label for="">Name:</label>
+        <input type="text" name="" id="" value="" />
+        
+        <br><br>
+        
+        <label for="">Email:</label>
+        <input type="text" name="" id="" value="" />
+        
+        <br><br>
+        
+        <label for="">Password:</label>
+        <input type="password" id="" name="">
+        
+        <br><br>
+        
+        <label for="">Phone:</label>
+        <input type="text" name="" id="" value="" />
+        
+        <br><br>
+        
+        <label for="">Gender:</label>
+        <input type="radio" name="gender" id="" value="" />
+        <label for="">Male</label>
+        <input type="radio" name="gender" id="" value="" />
+        <label for="">Female</label>
+        
+        <br><br><br>
+        
+        
+        <label for="">Address:</label>   
+        <textarea id="" name="" rows="4" cols="50"></textarea>
+        
+        
+        <br><br>
+        
+        <label for="State:">State:</label>
+        <input type="text" name="State:" id="State:" value="" />
+        
+        
+        <br><br>
+        
+        
+        <input type="submit" value="Submit">
+        
+        
+        
+        
+        
+        
+        <br><br>
+        
+  
+    </body>
+</html>
